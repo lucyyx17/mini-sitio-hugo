@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Práctica IAW Hugo - Lucía Rivera</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Práctica IAW Hugo - Lucía Rivera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2026 20:23:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primer Post</title>
+      <link>http://localhost:1313/posts/mi-primer-post/</link>
+      <pubDate>Fri, 30 Oct 2026 20:23:18 +0100</pubDate>
+      <guid>http://localhost:1313/posts/mi-primer-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
