@@ -1,5 +1,5 @@
 baseURL = 'https://lucyyx17.github.io/mini-sitio-hugo/'
 languageCode = 'es'
-title = 'Práctica IAW Hugo - Lucía Rivera'
+title = 'Mi sitio web practico - Lucía Rivera'
 publishDir = '.'
 disableKinds = ["taxonomy", "term"]
