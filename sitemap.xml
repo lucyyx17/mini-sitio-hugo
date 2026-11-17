@@ -2,25 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lucyyx17.github.io/mini-sitio-hugo/</loc>
     <lastmod>2026-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://lucyyx17.github.io/mini-sitio-hugo/blog/</loc>
     <lastmod>2026-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/primer-post/</loc>
+    <loc>https://lucyyx17.github.io/mini-sitio-hugo/blog/primer-post/</loc>
     <lastmod>2026-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mi-primer-post/</loc>
+    <loc>https://lucyyx17.github.io/mini-sitio-hugo/posts/</loc>
     <lastmod>2026-10-30T20:23:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-10-30T20:23:18+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lucyyx17.github.io/mini-sitio-hugo/about/</loc>
   </url>
 </urlset>
